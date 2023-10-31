@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<suite name="Dmoney API Automation">
+    <test name="User API automation">
+        <classes>
+            <class name="testRunner.UserTestRunner"></class>
+        </classes>
+    </test>
+    <test name="Transaction API automation">
+        <classes>
+            <class name="testRunner.TransactionTestRunner"></class>
+        </classes>
+    </test>
+</suite>
